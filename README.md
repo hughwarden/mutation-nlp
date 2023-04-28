@@ -1,0 +1,15 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# Trying to Classify Oncogenes from PubMED Abstracts
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+This is the repository containing the code I used for my blog post
+[Trying to Classify Oncogenes from PubMED
+Abstracts](https://hwarden.blog/posts/mutation-nlp/).
+
+Apologies for the lack of commenting and package versions, this is
+something I would like to come back to if there is interest and I have
+the time.
